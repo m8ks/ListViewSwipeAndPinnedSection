@@ -1,9 +1,6 @@
 # ListView with Swipe and pinned section
 Listview with Swipe and Pinned Section
 
-#Introduction
-
-
 
 #Demo
 
