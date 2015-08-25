@@ -1,9 +1,16 @@
-# ListViewSwipeAndPinnedSection
+# ListView with Swipe and pinned section
 Listview with Swipe and Pinned Section
+
+#Introduction
+
+
+
+#Demo
 
 ![gif](https://github.com/dumfag/ListViewSwipeAndPinnedSection/blob/master/x_ezgif.com-gif-maker.gif)
 
-Thanks to developers:
+
+#Thanks to developers:
 
 1. [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)
 
